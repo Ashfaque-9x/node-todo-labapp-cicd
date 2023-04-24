@@ -16,4 +16,5 @@ Run these commands:
 or Run by docker compose
 
 test 1
+test 2
 
